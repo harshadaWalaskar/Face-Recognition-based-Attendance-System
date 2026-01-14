@@ -31,3 +31,6 @@ SHOWING ATTENDANCE TAKEN:
 
 HELP OPTION IN MENUBAR: 
 ![image alt](https://github.com/harshadaWalaskar/Face-Recognition-based-Attendance-System/blob/d7a57f7df7800aca1c3822503d09533e8fab494e/Screenshot%202026-01-14%20235320.png)
+
+CHANGE PASSWORD OPTION:
+![image alt](https://github.com/harshadaWalaskar/Face-Recognition-based-Attendance-System/blob/05bf62f7b932de287ba0f749ddd881874d1c4d3b/Screenshot%202026-01-14%20235600.png)
