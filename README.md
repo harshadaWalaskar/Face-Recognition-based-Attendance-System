@@ -28,5 +28,3 @@ TAKE ATTENDANCE:
 
 SHOWING ATTENDANCE TAKEN: 
 ![image alt](https://github.com/harshadaWalaskar/Face-Recognition-based-Attendance-System/blob/0a5eb206fd28ad6e836bc6a77f6728597cfd42c4/Screenshot%202026-01-14%20234559.png)
-SHOWING ATTENDANCE TAKEN:
-![image alt](https://github.com/harshadaWalaskar/Face-Recognition-based-Attendance-System/blob/48a49e8a7763ed51eebf7d9176686a6469da35aa/Screenshot%202026-01-14%20234559.png)
