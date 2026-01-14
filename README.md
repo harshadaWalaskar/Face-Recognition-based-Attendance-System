@@ -23,4 +23,6 @@ https://machinelearningprojects.net/face-recognition-based-attendance-system/
 MAIN
 ![image alt](https://github.com/harshadaWalaskar/Face-Recognition-based-Attendance-System/blob/712c1a970fc0e4d5146bc87f2fe757b193abd406/Screenshot%202026-01-14%20232314.png)
 
+TAKE ATTENDANCE
+![image alt]()
 # Face-Recognition-based-Attendance-System
